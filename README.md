@@ -42,10 +42,13 @@ Endpoint	Method	Purpose
 Setup Backend: Initialize Node + Express project, add routing, middleware (logging with Pino, request-ID).
 Setup MongoDB: Create an Atlas cluster with collections: hospitals, predictions, agents_logs, simulations.
 Setup Frontend: Initialize React + Vite project with Dashboard, Simulator, and Hospital details pages.
-Data Prep: Run the synthetic data generator to create 100 test hospitals and 1000 final simulation hospitals. Push 100 to MongoDB.
+Data Prep: Run the synthetic data generator to create 100 test hospitals and 1000 fin
+al simulation hospitals. Push 100 to MongoDB.
 Deployment Stack (Phase 9)
 Containerization: Docker
 Backend Hosting: Railway / Render / AWS EC2
 Frontend Hosting: Vercel
 Database: MongoDB Atlas
-Gemini can't reference Calendar or Chat yet. Check dates and times for accuracy. Learn more
+<img width="532" height="161" alt="Screenshot 2025-11-29 120759" src="https://github.com/user-attachments/assets/4e0fb18a-996a-4653-8d18-0df582684313" />
+<img width="419" height="242" alt="Screenshot 2025-11-29 120753" src="https://github.com/user-attachments/assets/e7328b1f-63f2-4252-bd42-cdce5ec4b236" />
+<img width="1518" height="692" alt="sih problem170" src="https://github.com/user-attachments/assets/cfcaa64e-a189-480c-96a1-e00ff56d70b6" />
