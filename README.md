@@ -51,4 +51,7 @@ Frontend Hosting: Vercel
 Database: MongoDB Atlas
 <img width="532" height="161" alt="Screenshot 2025-11-29 120759" src="https://github.com/user-attachments/assets/4e0fb18a-996a-4653-8d18-0df582684313" />
 <img width="419" height="242" alt="Screenshot 2025-11-29 120753" src="https://github.com/user-attachments/assets/e7328b1f-63f2-4252-bd42-cdce5ec4b236" />
-<img width="1518" height="692" alt="sih problem170" src="https://github.com/user-attachments/assets/cfcaa64e-a189-480c-96a1-e00ff56d70b6" />
+Deployed links:
+frontend:https://frontend-three-beta-54.vercel.app/
+backend:https://new-f-production.up.railway.app/
+AIML:https://agents-ai-xkvx.onrender.com/agents/run
